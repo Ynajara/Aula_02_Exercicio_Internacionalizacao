@@ -20,7 +20,7 @@
         android:textStyle="bold"
         android:paddingLeft="15dp"
         />
-    
+
     <TextView
         android:id="@+id/countryTextView"
         android:layout_width="match_parent"
