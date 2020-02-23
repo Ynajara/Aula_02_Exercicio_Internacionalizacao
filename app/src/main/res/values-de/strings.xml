@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">Land</string>
+    <string name="country">Deutschland</string>
+    <string name="food">Eisbien mit Sauerkraut</string>
+    <string name="flag">Flagge</string>
+</resources>

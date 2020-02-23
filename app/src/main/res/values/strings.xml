@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">Countries</string>
+    <string name="country">United States</string>
+    <string name="food">Hamburguer</string>
+    <string name="flag">Flag</string>
+</resources>

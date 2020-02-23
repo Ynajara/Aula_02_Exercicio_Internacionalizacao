@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">Paese</string>
+    <string name="country">Italia</string>
+    <string name="food">Spaghetti</string>
+    <string name="flag">Bandiera</string>
+</resources>

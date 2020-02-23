@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">Χώρα</string>
+    <string name="country">Ελλάδα</string>
+    <string name="food">κεμπάπ</string>
+    <string name="flag">Σημαία</string>
+</resources>

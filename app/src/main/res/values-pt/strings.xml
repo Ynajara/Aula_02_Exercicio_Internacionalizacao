@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">País</string>
+    <string name="country">Brasil</string>
+    <string name="food">Feijoada</string>
+    <string name="flag">Bandeira</string>
+</resources>

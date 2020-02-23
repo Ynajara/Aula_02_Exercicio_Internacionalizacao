@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/countriesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/backgroundText"
+        android:gravity="center|fill_horizontal"
+        android:text="@string/countries"
+        android:textSize="@dimen/text_size"
+        android:textColor="@color/textTitle"
+        android:textStyle="bold"
+        android:paddingLeft="15dp"
+        />
+    
+    <TextView
+        android:id="@+id/countryTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/country"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="@dimen/text_size"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/imageCountry"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:contentDescription="@string/flag"
+        app:srcCompat="@drawable/country_flag" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="@dimen/imageFood"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:contentDescription="@string/food"
+        app:srcCompat="@drawable/food" />
+
+    <TextView
+        android:id="@+id/foodTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/food"
+        android:textSize="@dimen/text_size"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_02_Exercicio_Internacionalizacao</string>
+    <string name="countries">国</string>
+    <string name="country">日本</string>
+    <string name="food">寿司</string>
+    <string name="flag">旗</string>
+</resources>
